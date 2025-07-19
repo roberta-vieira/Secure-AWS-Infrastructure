@@ -6,6 +6,7 @@ This project demonstrates how to secure and monitor an AWS environment using nat
 To validate the setup, security events were simulated to demonstrate visibility, detection, and mitigation — supporting compliance goals aligned with **PCI DSS** and **GDPR**.
 
 ## Architecture Diagram
+![AWS Topology](./assets/aws-topology.png)
 
 ## Key Features
 - Hardened EC2 instances with CIS-level security.
@@ -19,7 +20,7 @@ To validate the setup, security events were simulated to demonstrate visibility,
 - [Project Report](link-to-pdf)
 - [Presentation Slides](https://docs.google.com/presentation/d/1c2HrOegtEJe4J82ZWXGPvTLqZriO6t3C/edit?usp=sharing&ouid=110327765505826154119&rtpof=true&sd=true)
 
-## 📂 Code Components
+## Repository Contents
 
 | Component      | Description |
 |----------------|-------------|
