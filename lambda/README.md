@@ -18,4 +18,4 @@ To operate correctly, this function requires:
 - **Amazon SNS** topic to notify the security team by email.
 - **A Network ACL (NACL)** associated with the target VPC to apply the deny rule.
 
-> **Note:** Update the `nacl_id` and `SNS Topic ARN` in the script to match your environment.
+> ⚠️ **Note:** Update the `nacl_id` and `SNS Topic ARN` in the script to match your environment.
